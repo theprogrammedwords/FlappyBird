@@ -56,3 +56,12 @@ which helps in maintaining the shape for the components that are used, like circ
 bird, rectangle for pipes. etc. This shape class uses an Intersector class’ method
 named as overlaps() which returns boolean if collision occurred, else False.
 All these concepts work in unison to make the game work efficiently.
+
+
+**Installation instructions**
+1. Unzip the folder after download.
+2. Open the whole project via Android studio by locating the path of unzipped folder.
+3. First perform a gradle sync of the entirety of project.
+4. You might be asked to download the SDK 22.0.1 version, please perform the same. Open the SDK Manager >> Tools >> And check the box where you notice the name of 22.0.1 SDK.
+5. Then after download, please perform CLEAN BUILD and later on sync the project.
+6. Run on your desired emulator and make sure the app works smoothly.
