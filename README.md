@@ -12,7 +12,7 @@ screen is not tapped, bird falls of because of gravity.
 point.
 4. If the bird exceeds the screen margins, the game overs.
 
-Technology Stack used :
+**Technology Stack used :**
 1. Java SE 1.8 JDK toolkit
 2. Android Studio Gradle Build 3.4.1
 3. OpenGL Based GDX1.6 Library by Third Party Vendor Badlogic Games
@@ -20,7 +20,7 @@ Technology Stack used :
 5. Android SDK API 22.0.1
 
 
-**Approach Used:
+**Approach Used:**
 
 The Flappy Bird game makes the use of stunning vector assets which are
 redesigned as per the guidelines of Nintendo Games and makes the usage of GDX1.6
