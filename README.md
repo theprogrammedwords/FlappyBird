@@ -44,9 +44,12 @@ Movement of pipes is also managed similarly as the way its managed for the
 birds. Moreover, an array of pipes is maintained which gets called repeatedly
 throughout the game. This ensures reusability principle and makes sure that less
 resources are called during runtime.
+
 3. When the X, Y co-ordinate of bird exceeds that of any pipe, a point is awarded
 to the player.
+
 **4. Collision Detection :**
+
 Though we’ve used images wrapped in a texture class, but we cannot predict
 the collision of textures itself. For this, a ShapeRender class instance is maintained
 which helps in maintaining the shape for the components that are used, like circle for
